@@ -1,45 +1,37 @@
-![Dashboard Analítico Financeiro](banner-dashboard-financeiro.jpg)
+<p align="center">
+  <img src="banner-dashboard-financeiro.jpg" alt="Banner Dashboard Analítico Financeiro" width="100%">
+</p>
 
-<div align="center">
-
-# 🚀 Dashboard Analítico Financeiro - DIO
-### Projeto Prático de Análise de Dados e Desenvolvimento Web
-
-[![Status do Projeto](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)](https://github.com/Rafael-TOZATO/dashboard-analitico-financeiro-dio)
-[![Tecnologia](https://img.shields.io/badge/Lovable-Modern_Analytics-blue?style=for-the-badge&logo=react)](https://insights-playground-52.lovable.app)
-[![Plataforma](https://img.shields.io/badge/DIO-Bootcamp-orange?style=for-the-badge&logo=codeforces)](https://dio.me)
-[![Licença](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Segurança](https://img.shields.io/badge/Security-Verified-blueviolet?style=for-the-badge&logo=security)](https://github.com/Rafael-TOZATO/dashboard-analitico-financeiro-dio)
-[![Proteção de Dados](https://img.shields.io/badge/Data-Protected-informational?style=for-the-badge&logo=databricks)](https://github.com/Rafael-TOZATO/dashboard-analitico-financeiro-dio)
-[![Conformidade](https://img.shields.io/badge/Compliance-Strict-yellow?style=for-the-badge&logo=checkmarx)](https://github.com/Rafael-TOZATO/dashboard-analitico-financeiro-dio)
-
-</div>
+<p align="center">
+  <a href="https://aurora-bi-dio.lovable.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Preview-Aurora_BI-blue?style=for-the-badge&logo=vercel" alt="Live Preview">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" alt="Status Concluído">
+  <img src="https://img.shields.io/badge/Tecnologia-React_%7C_Tailwind-informational?style=for-the-badge" alt="React">
+  <img src="https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge" alt="Licenca MIT">
+</p>
 
 ---
 
 ## 📋 Sobre o Projeto
 
-Repositório oficial do projeto desenvolvido para a **DIO**, consistindo em um dashboard analítico financeiro web interativo de alta performance. A aplicação foi construída para fornecer insights gerenciais precisos, acompanhamento de indicadores de desempenho financeiro e visualização dinâmica de métricas comerciais.
+Repositório oficial do projeto desenvolvido para a **DIO**, consistindo em um **dashboard analítico financeiro web interativo** de alta performance[cite: 3]. A aplicação foi construída para fornecer insights gerenciais precisos, acompanhamento de indicadores de desempenho financeiro e simulações estratégicas em tempo real[cite: 3]. O ecossistema integra código-fonte, base de dados estruturada em CSV, modelos em Power BI (`.pbix`), documentação técnica em relatório PDF e uma demonstração online totalmente funcional[cite: 3].
 
-O ecossistema do projeto integra código-fonte moderno, base de dados estruturada em CSV, documentação técnica em relatório PDF e uma demonstração online totalmente funcional.
+## 🛠️ Tecnologias e Arquitetura
 
----
+* **Frontend & Web App:** Lovable (React / Tailwind CSS / TypeScript)[cite: 3]
+* **Estruturação de Dados:** Microsoft Excel / Power BI (`.pbix`) / Arquivo CSV (`aurora-bi-financial-sample.csv`)
+* **Documentação Executiva:** Relatório técnico e executivo detalhado (`relatorio_analitico_financeiro_dio.pdf`)[cite: 3]
+* **Controle de Versão:** Git e GitHub[cite: 3]
 
-## 🛠️ Tecnologias e Ferramentas
-
-* **Frontend & Web App:** Lovable (React / Tailwind CSS / TypeScript)
-* **Estruturação de Dados:** CSV (`dashboard_analitico_financeiro_dio.csv`)
-* **Documentação Executiva:** Relatório em PDF (`relatorio_analitico_financeiro_dio.pdf`)
-* **Controle de Versão:** Git e GitHub
-
----
-
-## 📊 Estrutura do Repositório
+## 📂 Estrutura do Repositório
 
 ```text
 dashboard-analitico-financeiro-dio/
-├── src/                                # Código-fonte da aplicação web
-├── dashboard_analitico_financeiro_dio.csv   # Base de dados analítica financeira
-├── relatorio_analitico_financeiro_dio.pdf   # Relatório técnico e executivo detalhado
-├── banner-dashboard-financeiro.jpg     # Imagem de banner oficial do projeto
-└── README.md                           # Documentação principal do repositório
+├── src/                                  # Código-fonte da aplicação web
+├── aurora-bi-financial-sample.csv        # Base de dados analítica financeira[cite: 3]
+├── relatorio_analitico_financeiro_dio.pdf # Relatório técnico e executivo detalhado[cite: 3]
+├── financial-report (1).pbix             # Modelo de relatório Power BI
+├── vendas.pbix                           # Modelo de análise de vendas Power BI
+├── banner-dashboard-financeiro.jpg       # Imagem de banner oficial do projeto[cite: 3]
+└── README.md                             # Documentação principal do repositório
