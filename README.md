@@ -30,11 +30,11 @@ Repositório oficial do projeto desenvolvido para a **DIO**, consistindo em um *
 
 dashboard-analitico-financeiro-dio/
 ├── src/                                  # Código-fonte da aplicação web
-├── aurora-bi-financial-sample.csv        # Base de dados analítica financeira[cite: 3]
-├── relatorio_analitico_financeiro_dio.pdf # Relatório técnico e executivo detalhado[cite: 3]
+├── aurora-bi-financial-sample.csv        # Base de dados analítica financeira
+├── relatorio_analitico_financeiro_dio.pdf # Relatório técnico e executivo detalhado
 ├── financial-report (1).pbix             # Modelo de relatório Power BI
 ├── vendas.pbix                           # Modelo de análise de vendas Power BI
-├── banner-dashboard-financeiro.jpg       # Imagem de banner oficial do projeto[cite: 3]
+├── banner-dashboard-financeiro.jpg       # Imagem de banner oficial do projeto
 └── README.md                             # Documentação principal do repositório
 
 ### Contato
