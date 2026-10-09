@@ -15,14 +15,14 @@
 
 ## 📋 Sobre o Projeto
 
-Repositório oficial do projeto desenvolvido para a **DIO**, consistindo em um **dashboard analítico financeiro web interativo** de alta performance[cite: 3]. A aplicação foi construída para fornecer insights gerenciais precisos, acompanhamento de indicadores de desempenho financeiro e simulações estratégicas em tempo real[cite: 3]. O ecossistema integra código-fonte, base de dados estruturada em CSV, modelos em Power BI (`.pbix`), documentação técnica em relatório PDF e uma demonstração online totalmente funcional[cite: 3].
+Repositório oficial do projeto desenvolvido para a **DIO**, consistindo em um **dashboard analítico financeiro web interativo** de alta performance. A aplicação foi construída para fornecer insights gerenciais precisos, acompanhamento de indicadores de desempenho financeiro e simulações estratégicas em tempo real. O ecossistema integra código-fonte, base de dados estruturada em CSV, modelos em Power BI (`.pbix`), documentação técnica em relatório PDF e uma demonstração online totalmente funcional.
 
 ## 🛠️ Tecnologias e Arquitetura
 
-* **Frontend & Web App:** Lovable (React / Tailwind CSS / TypeScript)[cite: 3]
+* **Frontend & Web App:** Lovable (React / Tailwind CSS / TypeScript)
 * **Estruturação de Dados:** Microsoft Excel / Power BI (`.pbix`) / Arquivo CSV (`aurora-bi-financial-sample.csv`)
-* **Documentação Executiva:** Relatório técnico e executivo detalhado (`relatorio_analitico_financeiro_dio.pdf`)[cite: 3]
-* **Controle de Versão:** Git e GitHub[cite: 3]
+* **Documentação Executiva:** Relatório técnico e executivo detalhado (`relatorio_analitico_financeiro_dio.pdf`)
+* **Controle de Versão:** Git e GitHub
 
 ## 📂 Estrutura do Repositório
 
