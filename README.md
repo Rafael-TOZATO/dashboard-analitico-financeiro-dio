@@ -28,14 +28,6 @@ Repositório oficial do projeto desenvolvido para a **DIO**, consistindo em um *
 
 ```text
 
-### Contato
-
-- LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- Portfólio PWA: [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-- Lovable: [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
-
 dashboard-analitico-financeiro-dio/
 ├── src/                                  # Código-fonte da aplicação web
 ├── aurora-bi-financial-sample.csv        # Base de dados analítica financeira[cite: 3]
@@ -44,3 +36,11 @@ dashboard-analitico-financeiro-dio/
 ├── vendas.pbix                           # Modelo de análise de vendas Power BI
 ├── banner-dashboard-financeiro.jpg       # Imagem de banner oficial do projeto[cite: 3]
 └── README.md                             # Documentação principal do repositório
+
+### Contato
+
+- LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+- GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+- Portfólio PWA: [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+- Lovable: [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
