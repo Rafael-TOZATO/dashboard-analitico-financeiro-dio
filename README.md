@@ -24,23 +24,13 @@ Repositório oficial do projeto desenvolvido para a **DIO**, consistindo em um *
 * **Documentação Executiva:** Relatório técnico e executivo detalhado (`relatorio_analitico_financeiro_dio.pdf`)
 * **Controle de Versão:** Git e GitHub
 
-## 📂 Estrutura do Repositório
+---
 
-```text
+## 📬 Contatos
 
-dashboard-analitico-financeiro-dio/
-├── src/                                  # Código-fonte da aplicação web
-├── aurora-bi-financial-sample.csv        # Base de dados analítica financeira
-├── relatorio_analitico_financeiro_dio.pdf # Relatório técnico e executivo detalhado
-├── financial-report (1).pbix             # Modelo de relatório Power BI
-├── vendas.pbix                           # Modelo de análise de vendas Power BI
-├── banner-dashboard-financeiro.jpg       # Imagem de banner oficial do projeto
-└── README.md                             # Documentação principal do repositório
+- 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
+- 🌐 **Portfólio PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+- 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 
-### Contato
-
-- LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- Portfólio PWA: [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-- Lovable: [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
