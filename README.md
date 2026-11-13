@@ -11,6 +11,19 @@
   <img src="https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge" alt="Licenca MIT">
 </p>
 
+## Governança 4.0
+
+[![CI/CD Pipeline & Quality Gates](https://img.shields.io/badge/CI%2FCD-Active-success?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com)
+[![CodeQL Security Scan](https://img.shields.io/badge/CodeQL-Protected-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Auto-Merge Enabled](https://img.shields.io/badge/Auto--Merge-Streamlined-informational?style=for-the-badge&logo=git&logoColor=white)](https://github.com)
+[![Solo Workflow Compliance](https://img.shields.io/badge/Governan%C3%A7a-4.0-critical?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com)
+
+Este repositório adota os padrões de **Governança 4.0**, garantindo automação, rastreabilidade e segurança contínua para o desenvolvimento solo:
+
+* **Automação de Qualidade e Segurança:** Análises automatizadas e portas de verificação (*status checks*) ativas em segundo plano.
+* **Fluxo Sem Atrito:** Dispensa de aprovações manuais redundantes com *auto-merge* habilitado para agilizar entregas.
+* **Integridade de Código:** Proteção de branch e bloqueio de *force pushes* para garantir a estabilidade da base principal.
+
 ---
 
 ## 📋 Sobre o Projeto
