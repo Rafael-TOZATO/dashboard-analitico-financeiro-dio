@@ -46,8 +46,6 @@ Este repositório adota controles automatizados de Governança 4.0 para assegura
 * **Fluxo Sem Atrito:** Dispensa de aprovações manuais redundantes com *auto-merge* habilitado para agilizar entregas.
 * **Integridade de Código:** Proteção de branch e bloqueio de *force pushes* para garantir a estabilidade da base principal.
 
----
-
 ## 📬 CONTATOS E PERFIS
 
 💻 **PROJETOS E PORTFÓLIOS**
